@@ -6,10 +6,10 @@ Register to get free API key on IBM BlueMix. Free trial / free plan allows up to
 
 Usage of the app:
 
-```https://myapp.herokuapp.com``` 
+`https://myapp.herokuapp.com`
 
 or 
 
-``` https://myapp.herokuapp.com/?youtube=https://youtube.com/popular```
+`https://myapp.herokuapp.com/?youtube=https://youtube.com/popular`
 
-if url is not set then it uses ```youtube.com/trending```
+if url is not set then it uses `youtube.com/trending`
