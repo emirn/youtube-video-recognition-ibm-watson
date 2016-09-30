@@ -1,0 +1,28 @@
+{
+  "name": "node-js-sample",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "sync-request": "^2.2.0"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "https://github.com/emironic",
+  "contributors": [
+    ""
+  ],
+  "license": "Apache"
+}
